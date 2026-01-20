@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "code malicieux"
+echo "code malicieux ..."
 whoami
 env | base64
