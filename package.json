@@ -1,7 +1,6 @@
 {
   "name": "riviera-dev-ppe",
   "description": "Demo server Riviera Dev PPE",
-  "private": true,
   "version": "1.0.0",
   "author": "Benjamin Hilaire <benjamin.hilaire@amadeus.com>",
   "repository": {
